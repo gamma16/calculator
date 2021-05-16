@@ -1,0 +1,18 @@
+E:\VSapplications\cool\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+E:\VSapplications\cool\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+E:\VSapplications\cool\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+E:\VSapplications\cool\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+E:\VSapplications\cool\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+E:\VSapplications\cool\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+E:\VSapplications\cool\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+E:\VSapplications\cool\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+E:\VSapplications\cool\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\ccs\Documents\Visual Studio 2013\Projects\calculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\ccs\Documents\Visual Studio 2013\Projects\calculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\ccs\Documents\Visual Studio 2013\Projects\calculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\ccs\Documents\Visual Studio 2013\Projects\calculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\ccs\Documents\Visual Studio 2013\Projects\calculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\ccs\Documents\Visual Studio 2013\Projects\calculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\ccs\Documents\Visual Studio 2013\Projects\calculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\ccs\Documents\Visual Studio 2013\Projects\calculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\ccs\Documents\Visual Studio 2013\Projects\calculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
